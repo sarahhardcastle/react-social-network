@@ -1,0 +1,13 @@
+.UserMiniProfile {
+  position: relative;
+  float: left;
+  width: 120px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 5px;
+  padding-top: 20px;
+}
+
+.CommentArea .UserMiniProfile {
+  width: 50px;
+}
